@@ -1,0 +1,78 @@
+body {
+    background-image: url(ksw.bgrd.img1.jpg); overlay: 500px;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 10px;
+    box-shadow: 50px;
+}
+img {
+    opacity: 0.5;
+}
+h1 {
+    color: rgb(211, 5, 5);
+text-align: center;
+}
+.d1 {
+    display: flex;
+   flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-bottom:20px;
+    background-color: white;
+    width: 100%;
+    border-radius: 5px;
+    
+}
+
+.ll {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tt {
+    width: 350px;
+    border-radius: 5px;
+    border:1px solid hsl(36, 20%, 95%);
+    background-color: white;
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ .ss {
+    width: 350px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(49, 5, 5); 
+    color: white;
+    border: 1px solid rgb(49, 5, 5);
+
+      a {
+        text-decoration: none;
+        color: white;
+        border: radius 5px; ;
+      }
+
+ }
+ #p1 {
+    a {
+        color: rgb(211, 5, 5);
+        text-decoration: none;
+    }
+ }
+ #p2 {
+    a {
+    color: rgb(211, 5, 5);
+    text-decoration: none;
+    }
+ }
+ 
+
+ .umar{
+    background-color:rgb(84, 43, 43) ;
+    background-image: none;
+    
+}

@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.umar {
+    background-color:rgb(84, 43, 43);
+}
+li{
+    list-style-type: none;
+}
+.aa {
+    font-size: large; 
+}
+.ww {
+    li{ text-decoration-line: none;}
+}
+
+.zz {
+    max-width: 500px;
+    padding: 13px;
+    background-color:white ;
+    border-radius: 5px;
+}
+.tt {
+    background-color: rgb(84, 43, 43);
+    font-size: larger;
+     li {
+        a{ 
+            color: #fff;
+        }
+     }
+}
+a:hover {
+background-color: white;
+color: black !important;
+}
+.k1{
+    display: flex;
+    background-color: rgb(165, 42, 42);
+}
+.top {
+    display: flex;
+    border-radius: 5px;
+    gap: 45px;
+    border-radius: 5px;
+}
